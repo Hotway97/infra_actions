@@ -13,5 +13,3 @@ pytest==6.2.4
 pytest-django==4.4.0 
 pytest-pythonpath==0.7.3 
 python-dotenv==0.19.2 
-isort==5.10.1 
-flake8==6.0.0
