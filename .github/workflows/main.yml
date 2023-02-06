@@ -57,3 +57,4 @@ jobs:
             sudo docker pull hotway97/infra_actions
             sudo docker stop $(sudo docker ps -a -q)
             sudo docker run --rm -d -p 5000:5000 hotway97/infra_actions
+
